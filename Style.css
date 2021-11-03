@@ -1,0 +1,10 @@
+body {
+    background-color: cyan;
+}
+hr{
+    border-style: dotted none none none;
+    width: 20%;
+    border-color: darkgreen;
+    border-width: 5px;
+    
+}
